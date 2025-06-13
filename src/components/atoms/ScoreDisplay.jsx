@@ -34,11 +34,11 @@ const ScoreDisplay = ({
           className="text-center"
           animate={scoreDiff > 0 ? { scale: [1, 1.1, 1] } : {}}
           transition={{ duration: 0.3 }}
-        >
+>
           <span className="gradient-text font-display text-3xl sm:text-4xl font-bold">
             {score.toLocaleString()}
           </span>
-        </div>
+        </motion.div>
         
         {multiplier > 1 && (
           <motion.div 
