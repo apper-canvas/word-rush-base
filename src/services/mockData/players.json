@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "username": "WordMaster",
+    "score": 0,
+    "wins": 23,
+    "bestScore": 4250,
+    "gamesPlayed": 45,
+    "averageScore": 1850
+  },
+  {
+    "id": "2",
+    "username": "SpeedySpeller",
+    "score": 0,
+    "wins": 18,
+    "bestScore": 3890,
+    "gamesPlayed": 32,
+    "averageScore": 2100
+  },
+  {
+    "id": "3",
+    "username": "LetterLegend",
+    "score": 0,
+    "wins": 31,
+    "bestScore": 5120,
+    "gamesPlayed": 56,
+    "averageScore": 2450
+  },
+  {
+    "id": "4",
+    "username": "QuickQuill",
+    "score": 0,
+    "wins": 12,
+    "bestScore": 3200,
+    "gamesPlayed": 28,
+    "averageScore": 1650
+  },
+  {
+    "id": "5",
+    "username": "VocabViper",
+    "score": 0,
+    "wins": 27,
+    "bestScore": 4680,
+    "gamesPlayed": 41,
+    "averageScore": 2200
+  }
+]

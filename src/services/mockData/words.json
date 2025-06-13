@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "text": "RUSH",
+    "points": 8,
+    "foundBy": "1",
+    "timestamp": 1698765432000
+  },
+  {
+    "id": "2",
+    "text": "PUSH",
+    "points": 8,
+    "foundBy": "1",
+    "timestamp": 1698765435000
+  },
+  {
+    "id": "3",
+    "text": "PLUS",
+    "points": 8,
+    "foundBy": "1", 
+    "timestamp": 1698765438000
+  },
+  {
+    "id": "4",
+    "text": "GAME",
+    "points": 8,
+    "foundBy": "3",
+    "timestamp": 1698765440000
+  },
+  {
+    "id": "5",
+    "text": "TEAM",
+    "points": 8,
+    "foundBy": "3",
+    "timestamp": 1698765443000
+  },
+  {
+    "id": "6",
+    "text": "GATE",
+    "points": 8,
+    "foundBy": "3",
+    "timestamp": 1698765446000
+  },
+  {
+    "id": "7",
+    "text": "TIME",
+    "points": 8,
+    "foundBy": "4",
+    "timestamp": 1698765449000
+  }
+]

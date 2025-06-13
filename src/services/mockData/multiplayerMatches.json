@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "matchId": "match_1698765432",
+    "players": [
+      {
+        "id": "1",
+        "username": "WordMaster",
+        "score": 1250
+      },
+      {
+        "id": "2", 
+        "username": "SpeedySpeller",
+        "score": 980
+      }
+    ],
+    "letterPool": ["R", "U", "S", "H", "P", "L", "A"],
+    "timeLimit": 120,
+    "timeRemaining": 45,
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "matchId": "match_1698765433",
+    "players": [
+      {
+        "id": "3",
+        "username": "LetterLegend",
+        "score": 2100
+      },
+      {
+        "id": "4",
+        "username": "QuickQuill", 
+        "score": 1675
+      }
+    ],
+    "letterPool": ["G", "A", "M", "E", "T", "I", "M"],
+    "timeLimit": 120,
+    "timeRemaining": 0,
+    "status": "completed"
+  },
+  {
+    "id": "3",
+    "matchId": "match_1698765434",
+    "players": [
+      {
+        "id": "5",
+        "username": "VocabViper",
+        "score": 0
+      }
+    ],
+    "letterPool": ["W", "O", "R", "D", "S", "L", "Y"],
+    "timeLimit": 120,
+    "timeRemaining": 120,
+    "status": "waiting"
+  }
+]

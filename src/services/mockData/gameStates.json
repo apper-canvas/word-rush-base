@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "letters": ["R", "U", "S", "H", "P", "L", "A"],
+    "foundWords": ["RUSH", "PUSH", "PLUS"],
+    "score": 1250,
+    "timeRemaining": 45,
+    "difficulty": 2,
+    "multiplier": 1,
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "letters": ["G", "A", "M", "E", "T", "I"],
+    "foundWords": ["GAME", "TEAM", "GATE", "TIME"],
+    "score": 2100,
+    "timeRemaining": 0,
+    "difficulty": 3,
+    "multiplier": 2,
+    "status": "completed"
+  },
+  {
+    "id": "3",
+    "letters": ["W", "O", "R", "D", "S", "L"],
+    "foundWords": ["WORD", "WORDS", "LORD", "SLOW"],
+    "score": 1875,
+    "timeRemaining": 12,
+    "difficulty": 1,
+    "multiplier": 1,
+    "status": "active"
+  }
+]
