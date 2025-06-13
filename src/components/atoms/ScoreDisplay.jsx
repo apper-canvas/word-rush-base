@@ -55,7 +55,7 @@ const ScoreDisplay = ({
       
       {/* Floating score animation */}
       <AnimatePresence>
-        {scoreDiff > 0 && (
+{scoreDiff > 0 && (
           <motion.div
             initial={{ opacity: 1, y: 0, scale: 1 }}
             animate={{ opacity: 0, y: -30, scale: 1.2 }}
